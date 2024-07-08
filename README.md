@@ -2,6 +2,8 @@
 
 My template of CDN + React + Tailwind
 
+![CDNxREACTxTAILWIND](/README/cdn-react-tailwind.png)
+
 ## 💻 Check
 
 - require: python
